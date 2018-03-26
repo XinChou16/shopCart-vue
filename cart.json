@@ -1,0 +1,25 @@
+{
+  "shopList":[
+    {
+      "shopId": "1001",
+      "shopName": "小米手机",
+      "shopprice": 2999.00,
+      "shopNumber": 1,
+      "shopImage": "img/phone.jpg"
+    },
+    {
+      "shopId": "1002",
+      "shopName": "苹果手机",
+      "shopprice": 4999.00,
+      "shopNumber": 1,
+      "shopImage": "img/phone.jpg"
+    },
+    { 
+      "shopId": "1003",
+      "shopName": "华为手机",
+      "shopprice": 3999.00,
+      "shopNumber": 2,
+      "shopImage": "img/phone.jpg"
+    }
+  ]
+}
